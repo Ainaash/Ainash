@@ -5,3 +5,6 @@ class KadamTur:
 
     def funk(self):
         print(f'name:{self.name},location:{self.location}')
+
+    def funk2(self):
+        print("Менин биринчи аткарган жумушум")
